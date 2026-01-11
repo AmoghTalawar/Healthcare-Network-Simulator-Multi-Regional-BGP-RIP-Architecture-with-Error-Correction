@@ -109,6 +109,8 @@ This project simulates a **production-grade inter-hospital network** connecting 
 │  └──────────┘    └────────────┘    └────────────┘            │
 └─────────────────────────────────────────────────────────────────┘
 ```
+![Uploading hospital_topology_final_comprehensive.png…]()
+
 
 ### VLAN Structure (Per Campus)
 
