@@ -386,7 +386,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Project Maintainer**: Your Name  
+**Project Maintainer**: Amogh T  
 **Email**: princeamogh7@gmail.com 
 **LinkedIn**: [Amogh ](www.linkedin.com/in/amogh-talawar-769865319)  
 **GitHub**: [@AmoghTalawar](https://github.com/AmoghTalawar)
