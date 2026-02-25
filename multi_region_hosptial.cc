@@ -542,7 +542,7 @@ int main(int argc, char *argv[])
 
     // Simulation params & CLI
     double simTime = 210.0; // Staggered timeline
-    bool enablePcap = true;
+    bool enablePcap = false;
     bool verbose = false;
     bool printRoutingTables = true;
     double ripPrintInterval = 15.0;
